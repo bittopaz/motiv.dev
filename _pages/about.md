@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-(Under construction...)
+(Still under construction...)
